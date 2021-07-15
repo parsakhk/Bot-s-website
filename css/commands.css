@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/91/12/BNZxzM.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-height: 100%;
+}
+h1 {
+    font-size: 36px;
+    font-family: 'Courier New';
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+}
